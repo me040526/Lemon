@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lemon", "Lemon\Lemon.csproj", "{DB68C179-B068-4F5A-A470-16CDEA7359FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB68C179-B068-4F5A-A470-16CDEA7359FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB68C179-B068-4F5A-A470-16CDEA7359FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB68C179-B068-4F5A-A470-16CDEA7359FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB68C179-B068-4F5A-A470-16CDEA7359FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9F17E9-AF96-4E61-A4EC-0AFB1FF170F6}
+	EndGlobalSection
+EndGlobal
